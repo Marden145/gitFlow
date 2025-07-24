@@ -1,5 +1,5 @@
 ﻿CREATE PROCEDURE AgregarListaDeVisualizacion
-	-- Add the parameters for the stored procedure here
+	-- Add the parameters for the stored procedure here efallas
 	@Id UNIQUEIDENTIFIER,
 	@IdPelicula AS int,
 	@Prioridad AS varchar(MAX),
